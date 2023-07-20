@@ -1,0 +1,33 @@
+* {
+    height: 30px;
+    width: 80px;
+    text-align: center;
+    font-size: 15px;
+    padding-top: 5px;
+    font-weight: bold;
+} 
+.id1 {
+    border: 1px solid #000;
+    background-color: #343F50;
+    color: white;
+}
+
+.id2 {
+    margin-top: 20px;
+    background-color: #5461F4;
+    color: white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+}
+
+.id3 {
+    margin-top: 20px;
+    border: 1px solid rgb(220, 220, 220);
+    border-top-right-radius: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
+    box-shadow: 2px 2px 2px 2px rgb(193, 193, 193);
+}
+
