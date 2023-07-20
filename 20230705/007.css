@@ -1,0 +1,32 @@
+body {
+    background-color: palevioletred;
+}
+
+.cat {
+    color: maroon;
+}
+
+#hi {
+    text-decoration: underline;
+}
+
+.cat + p {
+    color: aqua;
+}
+
+/* .sect2 strong{
+    background-color: yellow;
+} */
+
+.sect2 > strong{
+    background-color: yellow;
+}
+
+.sect2 *{
+    border: 2px solid red;
+}
+
+.cat + p,
+.sect3 p {
+    background-color: beige;
+}
