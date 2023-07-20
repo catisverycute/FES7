@@ -1,0 +1,39 @@
+/* typeselector */
+/* 부모가 제공해주는 컨텐츠 영역의 크기 == 컨테이닝 블럭 */
+/* property:value  */
+/* 초기값 inital value */
+/* 컨테이닝 블럭의 너비 만큼 계산 */
+/* div {
+  background-color: orange;
+  width: 800px;
+  height: auto;
+  margin: 0 auto;
+} */
+/* 전체 선택자 universal selector 
+* {
+    
+}
+*/
+/* 최상단 typeselector */
+h1 {
+  margin: initial;
+}
+body {
+  background-image: url(images/background.gif);
+}
+.wrapper {
+  background-color: #ddd;
+  width: 800px;
+  height: auto;
+  margin: 100px auto;
+}
+header {
+  background: url(images/cover05.png);
+  background-size: cover;
+  background-position: center;
+  padding: 100px 0;
+}
+
+.footer {
+  background-color: #f4f4f4;
+}
